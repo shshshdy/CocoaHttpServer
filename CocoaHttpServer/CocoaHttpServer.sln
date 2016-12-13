@@ -8,10 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCocoaHttpServer", "..\T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CocoaTouchResource", "CocoaTouchResource", "{34BC3D4A-379D-4EF9-942B-F655FB4CEA92}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\libhttpserver\include\HTTPServer\HTTPServer.h = ..\..\..\libhttpserver\include\HTTPServer\HTTPServer.h
-		..\..\..\libhttpserver\libHTTPServer_all.a = ..\..\..\libhttpserver\libHTTPServer_all.a
-		..\..\..\libhttpserver\libHTTPServer_armv7_armv64.a = ..\..\..\libhttpserver\libHTTPServer_armv7_armv64.a
-		..\..\..\libhttpserver\libHTTPServer_i386_x86_x64.a = ..\..\..\libhttpserver\libHTTPServer_i386_x86_x64.a
+		..\HTTPServer.h = ..\HTTPServer.h
+		..\libHTTPServer_all.a = ..\libHTTPServer_all.a
+		..\libHTTPServer_armv7_armv64.a = ..\libHTTPServer_armv7_armv64.a
+		..\libHTTPServer_i386_x86_x64.a = ..\libHTTPServer_i386_x86_x64.a
 	EndProjectSection
 EndProject
 Global
