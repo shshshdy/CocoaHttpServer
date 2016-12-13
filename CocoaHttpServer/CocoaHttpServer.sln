@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CocoaTouchResource", "Cocoa
 		..\libHTTPServer_all.a = ..\libHTTPServer_all.a
 		..\libHTTPServer_armv7_armv64.a = ..\libHTTPServer_armv7_armv64.a
 		..\libHTTPServer_i386_x86_x64.a = ..\libHTTPServer_i386_x86_x64.a
+		..\readme.txt = ..\readme.txt
 	EndProjectSection
 EndProject
 Global
